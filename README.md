@@ -10,8 +10,8 @@ The main scene is called "game". It already has all the assets needed. We consru
 1. Regular BlackJack game:
      The game is compatible with up to 3 players to choose (from different behaviours and algprithms such as RL player, ExpcetiMax Player, Mimic the dealer Player, Never bust           Player and more) not including the dealer. The scene has 3 Player GameObjects - "bottom", "right", "left" with player script on each one. It also has GameManager gameobject        with GameManager script.  You can change the scripts on the players to the one you want to play with and add it to the list in the gameManager script on the gameManager using      the inspector.
 2. Sruvival mode:
-   Same as before, only you need to deactivate the gameManager script on the GameManager gameobject and activate the survivalManager script on the same gameobject.
-   The survival mode simulates a game with 1000 dollars to each player and continue until everyone busts. Using this mode, we were able to compare how different agents last in a      game comparing to others.
+   Same as before, but the only change is you need to deactivate the gameManager script on the GameManager gameobject and activate the survivalManager script on the same gameobject.
+   The survival mode simulates a game with 1000 dollars to each player and continues until everyone busts. Using this mode, we were able to compare how different agents last in a      game comparing to others.
 
 * Additional info - Time between each game can be controlled by a parameter in the GameManager script. 
 
