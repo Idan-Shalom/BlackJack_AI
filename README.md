@@ -21,7 +21,8 @@ The main scene is called "game". It already has all the assets needed. We consru
   
 # Plotting
 ## "plotting" folder
-To create the figures, run "plots.py". To run the videos of the results run the vidoes in "animations". 
+To create the figures shown in the article and video, run plots.py.
+To create the animations of the results shown in the video, run 
 
 # Scripts
 You can view the AI as well as all other scripts for the game. 
