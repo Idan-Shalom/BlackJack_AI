@@ -3,9 +3,9 @@ This is a repo for the final project in AI course at the Hebrew university of Je
 
 The project uses Unity engine and c#, both must be faimiliar to the user in order to try the project.
 
-## Unity set up and guidance
+# Unity set up and guidance
 The unity project is inside "Unity-Blackjack-Game-Tutorial-master-2" folder.
-# Main Scene
+## Main Scene
 The main scene is called "game". It already has all the assets needed. We consructed 2 game "modes":
 1. Regular BlackJack game:
      The game is compatible with up to 3 players to choose (from different behaviours and algprithms such as RL player, ExpcetiMax Player, Mimic the dealer Player, Never bust           Player and more) not including the dealer. The scene has 3 Player GameObjects - "bottom", "right", "left" with player script on each one. It also has GameManager gameobject        with GameManager script.  You can change the scripts on the players to the one you want to play with and add it to the list in the gameManager script on the gameManager using      the inspector.
