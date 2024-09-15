@@ -18,4 +18,5 @@ The main scene is called "game". It already has all the assets needed. We consru
 * Make sure in the RLPLayer script to give the qTable a path to the "qTable2.json" provided in the repo. This is the qTable result from the RL player training.
   
 # Plotting
+## "plotting" folder
 To create the figures, run "plots.py". To run the videos of the results run the vidoes in "animations". 
