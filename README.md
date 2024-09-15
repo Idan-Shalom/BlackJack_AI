@@ -4,6 +4,7 @@ This is a repo for the final project in AI course at the Hebrew university of Je
 The project uses Unity engine c#, both must be faimiliar to the user in order to try the project.
 
 ## Unity set up and guidance
+The unity project is inside Unity-Blackjack-Game-Tutorial-master-2 folder.
 # Main Scene
 The main scene is called "game". It already has all the assets needed. We consructed 2 game "modes":
 1. Regular BlackJack game:
@@ -13,7 +14,6 @@ The main scene is called "game". It already has all the assets needed. We consru
    The survival mode simulates a game with 1000 dollars to each player and continue until everyone busts. Using this mode, we were able to compare how different agents last in a      game comparing to others.
 
 * Additional info - Time between each game can be controlled by a parameter in the GameManager script. 
-
 
 * Make sure in the RLPLayer script to give the qTable a path to the "qTable2.json" provided in the repo. This is the qTable result from the RL player training.
   
