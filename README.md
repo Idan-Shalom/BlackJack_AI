@@ -1,7 +1,7 @@
 # BlackJack_AI
 This is a repo for the final project in AI course at the Hebrew university of Jerusalem. The project tries to solve blackJack using AI and compare different agents behaviors. 
 
-The project uses Unity engine c#, both must be faimiliar to the user in order to try the project.
+The project uses Unity engine and c#, both must be faimiliar to the user in order to try the project.
 
 ## Unity set up and guidance
 The unity project is inside Unity-Blackjack-Game-Tutorial-master-2 folder.
