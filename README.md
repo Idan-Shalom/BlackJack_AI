@@ -23,11 +23,12 @@ The main scene is called "game". It already has all the assets needed. We consru
 To create the figures, run "plots.py". To run the videos of the results run the vidoes in "animations". 
 
 # Scripts
-You can view the AI as well as all other scripts for the game. RL training is in "TrainingScript" folder. 
+You can view the AI as well as all other scripts for the game. 
+* RL training is in "TrainingScript" folder. 
 * RL Player script - "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts/RL_Player_Q_learning.cs"
 * ExpectiMax players - "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts/ExpectiMaxUnified.cs"
 * All rest of the players AND game classes are also in "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts"
-* 
+
 
 
 
