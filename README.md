@@ -4,7 +4,7 @@ This is a repo for the final project in AI course at the Hebrew university of Je
 The project uses Unity engine and c#, both must be faimiliar to the user in order to try the project.
 
 ## Unity set up and guidance
-The unity project is inside Unity-Blackjack-Game-Tutorial-master-2 folder.
+The unity project is inside "Unity-Blackjack-Game-Tutorial-master-2" folder.
 # Main Scene
 The main scene is called "game". It already has all the assets needed. We consructed 2 game "modes":
 1. Regular BlackJack game:
