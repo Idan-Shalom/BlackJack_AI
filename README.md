@@ -16,7 +16,19 @@ The main scene is called "game". It already has all the assets needed. We consru
 * Additional info - Time between each game can be controlled by a parameter in the GameManager script. 
 
 * Make sure in the RLPLayer script to give the qTable a path to the "qTable2.json" provided in the repo. This is the qTable result from the RL player training.
+
   
 # Plotting
 ## "plotting" folder
 To create the figures, run "plots.py". To run the videos of the results run the vidoes in "animations". 
+
+# Scripts
+You can view the AI as well as all other scripts for the game. RL training is in "TrainingScript" folder. 
+* RL Player script - "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts/RL_Player_Q_learning.cs"
+* ExpectiMax players - "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts/ExpectiMaxUnified.cs"
+* All rest of the players AND game classes are also in "Unity-Blackjack-Game-Tutorial-master-2/Assets/Scripts"
+* 
+
+
+
+
